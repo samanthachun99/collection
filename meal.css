@@ -1,0 +1,65 @@
+body{
+    background-color: lightskyblue;
+}
+
+.title{
+    /* border: solid black 1px; */
+    position: absolute;
+    width: 550px;
+    left: calc(50% - 275px);
+}
+.rice{
+    width: 700px;
+    position: absolute;
+    left: -50px;
+    top: 200px;
+}
+
+.cans{
+    width: 400px;
+    position: absolute;
+    left: 1000px;
+    top: 100px;
+}
+
+.cheerios{
+    width: 500px;
+    position: absolute;
+    left: 600px;
+    top: 150px;
+}
+
+.fruit{
+    width: 700px;
+    position: absolute;
+    left: 1100px;
+    top: 250px;
+}
+
+.noodles{
+    width: 500px;
+    position: absolute;
+    left: 400px;
+    top: 450px;
+}
+
+.ramen{
+    width: 300px;
+    position: absolute;
+    left: 350px;
+    top: 150px;
+}
+
+.bread{
+    width: 400px;
+    position: absolute;
+    left: 1300px;
+    top: 50px;
+}
+
+.spread{
+    width: 300px;
+    position: absolute;
+    left: 950px;
+    top: 600px;
+}

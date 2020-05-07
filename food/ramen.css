@@ -1,0 +1,38 @@
+body{
+    background-color: orchid;
+    color: white;
+}
+
+.title{
+    /* border: solid black 1px; */
+    position: absolute;
+    width: 600px;    
+    left: calc(50% - 300px);
+}
+
+.example{
+    height: 170px;
+}
+
+.description{
+    width: 500px;
+    position: absolute;
+    left: 60%;
+    top: 300px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: regular;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.ramen{
+    width: 700px;
+    position: absolute;
+    left: 10%;
+    top: 150px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}

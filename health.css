@@ -1,0 +1,45 @@
+body{
+    background-color: lightskyblue;
+}
+
+.title{
+    /* border: solid black 1px; */
+    position: absolute;
+    width: 1400px;
+    left: calc(50% - 700px);
+}
+
+.cheerios{
+    width: 800px;
+    position: absolute;
+    left: 1000px;
+    top: 130px;
+}
+
+.fruit{
+    width: 700px;
+    position: absolute;
+    left: -50px;
+    top: 200px;
+}
+
+.granola{
+    width: 400px;
+    position: absolute;
+    left: 650px;
+    top: 200px;
+}
+
+.bread{
+    width: 400px;
+    position: absolute;
+    left: 500px;
+    top: 500px;
+}
+
+.jolly{
+    width: 400px;
+    position: absolute;
+    left: 400px;
+    top: 200px;
+}

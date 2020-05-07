@@ -1,0 +1,48 @@
+body{
+    background-color: lightskyblue;
+}
+
+.title{
+    /* border: solid black 1px; */
+    width: 75%;
+    position: absolute;
+    top: 70px;
+    color: yellow;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    font-size: 250px;
+    text-align: right;
+    /* stroke: orange;
+    stroke-width: 50px; */
+    text-shadow: orange;
+    /* -webkit-text-stroke-width: 5px;
+    -webkit-text-stroke-color: orange;     */
+}
+
+.title2{
+    position: absolute;
+    left: 5%;
+    top: 0px;
+}
+
+img{
+    width: 110%;
+}
+
+.description{
+    /* border: solid black 1px; */
+    width: 20%;
+    position: absolute;
+    left: 81%;
+    top: 60%;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: regular;
+    line-height: 35px;
+    font-size: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}

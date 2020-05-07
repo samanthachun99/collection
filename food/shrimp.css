@@ -1,0 +1,38 @@
+body{
+    background-color: mediumspringgreen;
+    color: black;
+}
+
+.title{
+    /* border: solid black 1px; */
+    position: absolute;
+    width: 1500px;    
+    left: calc(50% - 750px);
+}
+
+.example{
+    height: 170px;
+}
+
+.description{
+    width: 500px;
+    position: absolute;
+    left: 60%;
+    top: 300px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: regular;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.shrimp{
+    width: 700px;
+    position: absolute;
+    left: 10%;
+    top: 160px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}

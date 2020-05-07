@@ -1,0 +1,46 @@
+body{
+    background-color: lightskyblue;
+}
+
+.title{
+    /* border: solid black 1px; */
+    position: absolute;
+    width: 1150px;
+    left: calc(50% - 575px);
+}
+
+.cheetos{
+    width: 300px;
+    position: absolute;
+    left: 900px;
+    top: 250px;
+}
+
+.pocky{
+    width: 400px;
+    position: absolute;
+    left: 700px;
+    top: 450px;
+}
+
+.ritz{
+    width: 500px;
+    position: absolute;
+    left: 1100px;
+    top: 300px;
+    transform: rotate(270deg);
+}
+
+.choco{
+    width: 700px;
+    position: absolute;
+    left: 50px;
+    top: 250px;
+}
+
+.shrimp{
+    width: 400px;
+    position: absolute;
+    left: 400px;
+    top: 200px;
+}

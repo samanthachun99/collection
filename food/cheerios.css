@@ -1,0 +1,38 @@
+body{
+    background-color: plum;
+    color: white;
+}
+
+.title{
+    /* border: solid black 1px; */
+    position: absolute;
+    width: 800px;    
+    left: calc(50% - 400px);
+}
+
+.example{
+    height: 170px;
+}
+
+.description{
+    width: 500px;
+    position: absolute;
+    left: 60%;
+    top: 300px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: regular;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.cheerios{
+    width: 900px;
+    position: absolute;
+    left: 8%;
+    top: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
